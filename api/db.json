@@ -1,0 +1,379 @@
+{
+  "employees": [
+    {
+      "id": "1110",
+      "name": "Habil Ganteng",
+      "email": "habil@invasi369.com",
+      "password": "123123",
+      "img": "../src/assets/orang.png",
+      "departement": "Engineer",
+      "job": "programmer",
+      "cv": null,
+      "portfolio": null,
+      "other_documents": null
+    },
+    {
+      "id": "2220",
+      "name": "Sarah Cerdas",
+      "email": "sarah@invasi369.com",
+      "departement": "Engineer",
+      "img": "../src/assets/orang.png",
+      "job": "programmer",
+      "password": "123123",
+      "cv": null,
+      "portfolio": null,
+      "other_documents": null
+    },
+    {
+      "id": "3330",
+      "name": "Michael Chen",
+      "email": "michael@invasi369.com",
+      "departement": "Marketing",
+      "img": "../src/assets/orang.png",
+      "job": "Video Editor",
+      "password": "123123",
+      "cv": null,
+      "portfolio": null,
+      "other_documents": null
+    },
+    {
+      "id": "4440",
+      "name": "Aisha Sharma",
+      "email": "aisha@invasi369.com",
+      "departement": "Marketing",
+      "job": "Social Media marketer",
+      "img": "../src/assets/orang.png",
+      "password": "123123",
+      "cv": null,
+      "portfolio": null,
+      "other_documents": null
+    },
+    {
+      "id": "5550",
+      "name": "David Lee",
+      "email": "david@invasi369.com",
+      "departement": "Marketing",
+      "job": "Marketing Lead",
+      "img": "../src/assets/orang.png",
+      "password": "123123",
+      "cv": null,
+      "portfolio": null,
+      "other_documents": null
+    },
+    {
+      "id": "6660",
+      "name": "Maria Lopez",
+      "email": "maria@invasi369.com",
+      "departement": "Engineer",
+      "job": "Software lead",
+      "img": "../src/assets/orang.png",
+      "password": "123123",
+      "cv": null,
+      "portfolio": null,
+      "other_documents": null
+    }
+  ],
+
+  "attendances": [
+    {
+      "attendances": [
+        {
+          "attendantId": "1",
+          "arrival": "08:57",
+          "leave": "17:10",
+          "status": "HADIR",
+          "date": "05/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "2",
+          "arrival": "08:59",
+          "leave": "17:02",
+          "status": "HADIR",
+          "date": "04/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "3",
+          "arrival": "08:52",
+          "leave": "17:20",
+          "status": "HADIR",
+          "date": "04/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "4",
+          "arrival": "09:00",
+          "leave": "17:15",
+          "status": "HADIR",
+          "date": "03/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "5",
+          "arrival": "08:55",
+          "leave": "17:30",
+          "status": "HADIR",
+          "date": "02/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "6",
+          "arrival": "08:57",
+          "leave": "17:10",
+          "status": "HADIR",
+          "date": "05/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "7",
+          "arrival": "08:02",
+          "leave": "17:25",
+          "status": "HADIR",
+          "date": "13/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        }
+      ],
+      "id": "1110"
+    },
+    {
+      "id": "2220",
+      "attendances": [
+        {
+          "attendantId": "1",
+          "arrival": "08:45",
+          "leave": "17:25",
+          "status": "HADIR",
+          "date": "05/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "2",
+          "arrival": "08:58",
+          "leave": "17:05",
+          "status": "HADIR",
+          "date": "04/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "3",
+          "arrival": "08:53",
+          "leave": "17:15",
+          "status": "HADIR",
+          "date": "03/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "4",
+          "arrival": "08:50",
+          "leave": "17:30",
+          "status": "HADIR",
+          "date": "02/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        }
+      ]
+    },
+    {
+      "id": "3330",
+      "attendances": [
+        {
+          "attendantId": "1",
+          "arrival": "08:50",
+          "leave": "17:20",
+          "status": "HADIR",
+          "date": "05/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "2",
+          "arrival": "08:55",
+          "leave": "17:10",
+          "status": "HADIR",
+          "date": "04/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "3",
+          "arrival": "08:56",
+          "leave": "17:15",
+          "status": "HADIR",
+          "date": "03/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "4",
+          "arrival": "08:57",
+          "leave": "17:30",
+          "status": "HADIR",
+          "date": "02/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        }
+      ]
+    },
+    {
+      "id": "4440",
+      "attendances": [
+        {
+          "attendantId": "1",
+          "arrival": "08:50",
+          "leave": "17:15",
+          "status": "HADIR",
+          "date": "05/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "2",
+          "arrival": "08:57",
+          "leave": "17:10",
+          "status": "HADIR",
+          "date": "04/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "3",
+          "arrival": "08:55",
+          "leave": "17:20",
+          "status": "HADIR",
+          "date": "03/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "4",
+          "arrival": "08:48",
+          "leave": "17:25",
+          "status": "HADIR",
+          "date": "02/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        }
+      ]
+    },
+    {
+      "id": "5550",
+      "attendances": [
+        {
+          "attendantId": "1",
+          "arrival": "08:45",
+          "leave": "17:20",
+          "status": "HADIR",
+          "date": "05/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "2",
+          "arrival": "08:55",
+          "leave": "17:10",
+          "status": "HADIR",
+          "date": "04/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "3",
+          "arrival": "08:57",
+          "leave": "17:15",
+          "status": "HADIR",
+          "date": "03/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "4",
+          "arrival": "08:50",
+          "leave": "17:30",
+          "status": "HADIR",
+          "date": "02/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        }
+      ]
+    },
+    {
+      "id": "6660",
+      "attendances": [
+        {
+          "attendantId": "1",
+          "arrival": "08:52",
+          "leave": "17:25",
+          "status": "HADIR",
+          "date": "05/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "2",
+          "arrival": "08:57",
+          "leave": "17:10",
+          "status": "HADIR",
+          "date": "04/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "3",
+          "arrival": "08:56",
+          "leave": "17:15",
+          "status": "HADIR",
+          "date": "03/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        },
+        {
+          "attendantId": "4",
+          "arrival": "08:50",
+          "leave": "17:30",
+          "status": "HADIR",
+          "date": "02/03/2024",
+          "supporting_document": null,
+          "reason": null,
+            "approve_status":"pending"
+        }
+      ]
+    }
+  ]
+}
